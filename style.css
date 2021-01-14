@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Imbue', serif;
+    font-size: 18px;
+}
+
+.col-md-7{
+    text-align: left;
+    margin-top: 150px;
+    color: goldenrod;
+    padding: 0px 6%;
+}
+.alert{
+    text-align: center;
+    font-size: 40px;
+    background-color: goldenrod;
+}
+
+
+.image{
+    height: 90px;
+}
+
+.half{
+    padding: 5px 10%;
+}
+.cart{
+    height: 20px;
+}
+
+.card-img-top{
+    height: 450px;
+    border-radius: 5px;
+    background-color: gainsboro;
+}
+
+footer{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+footer p{
+    font-family: calibari;
+}
+
+.social-icons a{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e6e3e3;
+    margin: 20px 10px;
+    border-radius: 50%;
+}
+
+.social-icons{
+    display: flex;
+}
+.social-icons i{
+    color: #000000;
+}
+
+
